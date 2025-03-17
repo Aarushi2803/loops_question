@@ -39,8 +39,6 @@ else  {
      printf("Roots: %.2f, %.2f\n", roots1, roots2); 
      printf("Type: Real and Equal\n"); 
 }
-
     }    
-
   return 0;
 }
